@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735766242007",
+    "project_id": "flash-chat-7fcc1",
+    "storage_bucket": "flash-chat-7fcc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735766242007:android:fa0b1ccf267e6998308692",
+        "android_client_info": {
+          "package_name": "com.TechnoManchanda.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735766242007-6p160d83t407pta5joj2qd9ibl3d8a4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOSNI8l5RzuCNxJGYoOYb33KERy8ISYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735766242007-6p160d83t407pta5joj2qd9ibl3d8a4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
