@@ -1,16 +1,7 @@
 # bookstore
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• An Application that gives details about the novels and magazines using Google Books API.
+• Made a very user friendly and easy to navigate UI/UX.
+• It shows the user the name and the author of the book through which you can also filter and search the book you
+want to read.
+• Deployed on GitHub pages via GitHub Actions
